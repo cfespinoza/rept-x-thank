@@ -1,5 +1,8 @@
 *.class
-
+./ReptXThank/target
+./ReptXThank/.settings
+./ReptXThank/.project
+./ReptXThank/.classpath
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
