@@ -1,8 +1,15 @@
 *.class
 ./ReptXThank/target
-./ReptXThank/.settings
+ReptXThank/.settings/*
 ./ReptXThank/.project
 ./ReptXThank/.classpath
+.settings/*
+.settings
+
+ReptXThank/.classpath
+ReptXThank/.settings/org.eclipse.wst.common.component
+ReptXThank/.settings/org.eclipse.wst.common.project.facet.core.xml
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
