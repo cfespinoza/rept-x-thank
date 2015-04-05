@@ -9,6 +9,7 @@ ReptXThank/.settings/*
 ReptXThank/.classpath
 ReptXThank/.settings/org.eclipse.wst.common.component
 ReptXThank/.settings/org.eclipse.wst.common.project.facet.core.xml
+target/*
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/

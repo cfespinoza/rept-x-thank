@@ -1,4 +1,4 @@
-package org.grasia.reptxthank.dao.item.impl;
+package org.grasia.reptxthank.dao.item.implementation;
 
 import java.util.List;
 
