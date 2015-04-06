@@ -9,6 +9,9 @@ public class User {
 	private long editCount;
 	private Date registration;
 	private ArrayList<Item> contributions;
+	private ArrayList<Item> grateFulContributions;
+	private long credit;
+	private long reputation;
 	
 	public long getId() {
 		return id;
@@ -39,6 +42,24 @@ public class User {
 	}
 	public void setContributions(ArrayList<Item> contributions) {
 		this.contributions = contributions;
+	}
+	public long getCredit() {
+		return credit;
+	}
+	public void setCredit(long credit) {
+		this.credit = credit;
+	}
+	public long getReputation() {
+		return reputation;
+	}
+	public void setReputation(long reputation) {
+		this.reputation = reputation;
+	}
+	public ArrayList<Item> getGrateFulContributions() {
+		return grateFulContributions;
+	}
+	public void setGrateFulContributions(ArrayList<Item> grateFulContributions) {
+		this.grateFulContributions = grateFulContributions;
 	}
 	
 }
